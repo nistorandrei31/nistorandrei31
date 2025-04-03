@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on various Free and Open Source Projects
 - 📫 You can reach me at this Gmail address : andreinistor31@gmail.com
 - ⚡ Fun fact: I started learning Linux because my philosophy teacher was using Ubuntu and his laptop was very slow.
-- I was in 12th grade, and there was the coronavirus lockdown at our school, and we were continuing lessons online, and our philosophy teacher was using Ubuntu and his laptop was bloated and slow with all kinds of apps and me and my friends we were laughing that his laptop might catch fire, and he didn't even have money to buy windows.
-- There was that online meme about old people installing Ubuntu accidentally and couldn't use their computer anymore. So we were laughing pretty hard. I was the only one of my friends who was curious about the unknown Ubuntu operating system, and I started learning that Ubuntu is based on Linux + GNU, and it was a free and open-source project.
-- Later I found that my philosophy teacher had 3 children, and he was the only one who provided for them and the Linux was the ultimate form of Freedom and intelligence, I was shocked at what you could do with the Linux + GNU operating system, and I was a fool laughing about my teacher who had a very hard life and the Linux + GNU operating system.
+- I was in 12th grade, and there was the coronavirus lockdown at our school, and we were continuing lessons online, our philosophy teacher was using Ubuntu and his laptop was bloated and slow with all kinds of apps, me and my friends were laughing that his laptop might catch fire, and he coudn't afford windows.
+- At that time i discovered that memes about old people accidentally installing Ubuntu and couldn't use their computer anymore. So we were laughing pretty hard. I was the only one of my friends who was curious about the unknown Ubuntu operating system, and I started learning that Ubuntu is based on Linux + GNU, and it was a free and open-source project.
+- Later I found that my philosophy teacher had 3 children, and he was the only one caring for them and the Linux was the ultimate form of Freedom and intelligence, I was shocked at what you could do with the Linux + GNU operating system, and I was a idiot laughing about my teacher who had a very hard life and the Linux + GNU operating system.
 - This was my biggest lesson in my life.
 
 <!---
